@@ -4,7 +4,7 @@ using System.Text;
 using dto.endpoint.auth.session.v2;
 using dto.endpoint.application.operation;
 using IGWebApiClient;
-using Lightstreamer.DotNet.Client;
+using Lightstreamer.DotNetStandard.Client;
 using Newtonsoft.Json;
 using SampleWPFTrader.Common;
 using SampleWPFTrader.Model;

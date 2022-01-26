@@ -3,7 +3,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using dto.endpoint.watchlists.retrieve;
 using IGWebApiClient;
-using Lightstreamer.DotNet.Client;
+using Lightstreamer.DotNetStandard.Client;
 using SampleWPFTrader.Model;
 
 namespace SampleWPFTrader.ViewModel

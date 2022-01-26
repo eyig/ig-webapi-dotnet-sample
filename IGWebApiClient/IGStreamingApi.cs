@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Lightstreamer.DotNet.Client;
+using Lightstreamer.DotNetStandard.Client;
 
 namespace IGWebApiClient
 {

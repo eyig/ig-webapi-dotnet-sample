@@ -2,7 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Linq;
 using IGWebApiClient;
-using Lightstreamer.DotNet.Client;
+using Lightstreamer.DotNetStandard.Client;
 using SampleWPFTrader.Model;
 
 namespace SampleWPFTrader.ViewModel
